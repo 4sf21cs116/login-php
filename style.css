@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    overflow: hidden;
+}
+
+#form{
+    background-color: aqua;
+    height: 300px;
+    width:36%;
+    margin:120px auto;
+    padding:20px;
+    box-shadow: 10px 10px  5px white;
+}
+#input{
+    width:390x;
+}
+
