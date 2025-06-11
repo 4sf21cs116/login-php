@@ -1,4 +1,4 @@
-# 🔐 login-php-project
+# 🔐 login-php
 
 A functional **Login & Signup system** built using **PHP** and **MySQL**, featuring form input validation and user credential handling for a  web-based interface.
 
